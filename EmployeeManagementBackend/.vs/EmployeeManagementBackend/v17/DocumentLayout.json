@@ -1,0 +1,477 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\auditableentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\performancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\performancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\services\\excelreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\services\\excelreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\employeemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\employeesalary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\salariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\salariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\authuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\controllers\\payrunscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\controllers\\payrunscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\employeeperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\employeeperformance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\payrunitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\payrunitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\payrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\payrun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|c:\\users\\arunj\\source\\repos\\employeemanagementsystem\\employeemanagementbackend\\employeemanagementbackend\\employeemanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{435E1D0D-3B97-4FD1-BAED-6664E27B83A0}|EmployeeManagementBackend\\EmployeeManagementBackend.csproj|solutionrelative:employeemanagementbackend\\employeemanagementbackend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAqwEQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T17:19:16.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\ReportsController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:03:20.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExcelReportService.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Services\\ExcelReportService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Services\\ExcelReportService.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Services\\ExcelReportService.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Services\\ExcelReportService.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAiwN0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T11:13:50.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAALIAAAAAAAAAAAAuwLYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:09:31.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerformanceController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\PerformanceController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\PerformanceController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\PerformanceController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\PerformanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:13:19.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwJ0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:11:01.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Attendance.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:44:46.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:02:42.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Employee.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\Employee.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:44:21.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Department.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:43:42.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuditableEntity.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\AuditableEntity.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\AuditableEntity.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\AuditableEntity.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\AuditableEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:43:06.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\DepartmentsController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\DepartmentsController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwCAAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:23:41.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementContext.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\EmployeeManagementContext.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementContext.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\EmployeeManagementContext.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwDIAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T08:01:23.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DepartmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\DepartmentDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\DepartmentDto.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\DepartmentDto.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\DepartmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T05:37:26.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Enums.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\Enums.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Enums.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\Enums.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:47:23.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EmployeeSalary.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\EmployeeSalary.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\EmployeeSalary.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\EmployeeSalary.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\EmployeeSalary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:45:44.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\EmployeeDto.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\EmployeeDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wCAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T07:06:02.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T08:17:30.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SalariesController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\SalariesController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\SalariesController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\SalariesController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\SalariesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:11:47.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AuthUser.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\AuthUser.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\AuthUser.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\AuthUser.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\AuthUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:45:10.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Services\\TokenService.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:07:41.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PayrunItem.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\PayrunItem.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\PayrunItem.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\PayrunItem.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\PayrunItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:46:25.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PayrunsController.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\PayrunsController.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Controllers\\PayrunsController.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Controllers\\PayrunsController.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Controllers\\PayrunsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:12:38.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Payrun.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Payrun.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\Payrun.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\Payrun.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\Payrun.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:46:06.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T10:08:24.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeePerformance.cs",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\EmployeePerformance.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\Models\\EmployeePerformance.cs",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\Models\\EmployeePerformance.cs",
+              "RelativeToolTip": "EmployeeManagementBackend\\Models\\EmployeePerformance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-16T07:46:46.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\appsettings.json",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\appsettings.json",
+              "RelativeToolTip": "EmployeeManagementBackend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-16T09:45:47.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeManagementBackend.csproj",
+              "DocumentMoniker": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "RelativeDocumentMoniker": "EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "ToolTip": "C:\\Users\\arunj\\source\\repos\\EmployeeManagementSystem\\EmployeeManagementBackend\\EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "RelativeToolTip": "EmployeeManagementBackend\\EmployeeManagementBackend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-16T08:00:38.832Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

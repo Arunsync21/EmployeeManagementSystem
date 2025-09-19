@@ -1,0 +1,48 @@
+### Excel Reports API Testing
+
+@baseUrl = https://localhost:7000/api
+@token = your_jwt_token_here
+
+### Get Employee Directory Report
+GET {{baseUrl}}/reports/employee-directory
+Authorization: Bearer {{token}}
+
+### Get Department Report
+GET {{baseUrl}}/reports/departments
+Authorization: Bearer {{token}}
+
+### Get Attendance Report (All employees, last 30 days)
+GET {{baseUrl}}/reports/attendance
+Authorization: Bearer {{token}}
+
+### Get Attendance Report with date range
+GET {{baseUrl}}/reports/attendance?startDate=2024-01-01&endDate=2024-12-31
+Authorization: Bearer {{token}}
+
+### Get Attendance Report for specific employee
+GET {{baseUrl}}/reports/attendance?employeeId=1&startDate=2024-01-01&endDate=2024-12-31
+Authorization: Bearer {{token}}
+
+### Get Salary Report (All departments, last 12 months)
+GET {{baseUrl}}/reports/salary
+Authorization: Bearer {{token}}
+
+### Get Salary Report with date range
+GET {{baseUrl}}/reports/salary?startDate=2024-01-01&endDate=2024-12-31
+Authorization: Bearer {{token}}
+
+### Get Salary Report for specific department
+GET {{baseUrl}}/reports/salary?departmentId=1&startDate=2024-01-01&endDate=2024-12-31
+Authorization: Bearer {{token}}
+
+### Get Department Managers Report
+GET {{baseUrl}}/reports/department-managers
+Authorization: Bearer {{token}}
+
+### Get Comprehensive Report (Multiple sheets)
+GET {{baseUrl}}/reports/comprehensive
+Authorization: Bearer {{token}}
+
+### Get Attendance Summary
+GET {{baseUrl}}/reports/attendance/summary?startDate=2024-01-01&endDate=2024-12-31
+Authorization: Bearer {{token}}
